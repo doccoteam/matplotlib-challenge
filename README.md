@@ -1,2 +1,2 @@
 # matplotlib-challenge
-Home
+Matplotlib challenge
